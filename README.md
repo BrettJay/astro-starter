@@ -2,13 +2,15 @@
 
 A basic Astro starter kit featuring...
 
-- TypeScript
-- React
-- Tailwind
-- shad-cn/ui
-- Prettier
+- Astro `^5.18.0`
+- TypeScript `^5.9.3`
+- React `^19.2.4`
+- Tailwind CSS `^4.2.1`
+- shadcn/ui (`@radix-ui/react-slot` `^1.2.4`)
+- Prettier `^3.8.1`
 
 ## Usage
+
 Recommend using [degit](https://github.com/Rich-Harris/degit) to clone a fresh copy of the latest version of this repo:
 
 ```zsh
